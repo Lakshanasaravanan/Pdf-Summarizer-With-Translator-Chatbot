@@ -19,7 +19,7 @@ An AI-powered PDF analysis tool that enables interactive chat, intelligent summa
 - Export summaries as formatted PDF
 
 ### 🌍 Multi-Language Translation
-- Translate entire PDFs into 13+ languages
+- Translate entire PDFs into 11+ languages
 - Supported languages: English, Tamil, Hindi, Spanish, French, German, Chinese, Arabic, Russian, Portuguese, Japanese, Korean, Italian
 - Preserve document structure
 - Export translations as text files
