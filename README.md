@@ -41,7 +41,7 @@ An AI-powered PDF analysis tool that enables interactive chat, intelligent summa
    - Multiple PDFs supported
 
 2. **Enter Groq API Key**
-   - Get your free API key at [console.groq.com](https://console.groq.com)
+   - Get your free API key at [console.groq.com](https://console.groq.com/keys)
    - Paste it in the sidebar
 
 3. **Choose Your Mode**
